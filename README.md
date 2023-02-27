@@ -1,7 +1,7 @@
 
 
 # Link
-- Live Site URL: [Live Site](https://effortless-stroopwafel-ea94fa.netlify.app/)
+- Live Site URL: [Vercell](https://effortless-stroopwafel-ea94fa.netlify.app/)
 
 # Built With
 

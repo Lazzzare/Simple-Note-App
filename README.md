@@ -1,4 +1,4 @@
-![NoteApp](src/Assets/note.png)
+![NoteApp](src/assets/note.png)
 
 # Link
 - Live Site URL: [Vercell](https://effortless-stroopwafel-ea94fa.netlify.app/)
